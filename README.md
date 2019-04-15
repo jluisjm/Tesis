@@ -1,2 +1,2 @@
-# Tesis
-Enlace a los ficheros empleados en mi tesis doctoral
+# Thesis
+Links to files used during my PhD Thesis
